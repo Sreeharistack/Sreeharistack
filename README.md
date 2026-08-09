@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **sreehariparayil32@gmail.com** For Project or Anything Els
 - 🌱 **I’m currently learning:** data science
 - 💬 **Ask me about:** real world ML projects doubts 
 - 📫 **How to reach me:** sreehariparayil132@gmail.com**
-- 😄 **Pronouns:** sreehari sir
+- 😄 **Pronouns:** sreehari 
 - ⚡ **Fun fact:** I Love ML and ML Love Me
  
 ## 🌐 Socials:
