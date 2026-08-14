@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **sreehariparayil32@gmail.com** For Project or Anything Els
 - ⚡ **Fun fact:** I Love ML and ML Love Me
  
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sreehari p) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Sreehariparayil132@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/sreehari-p-696159428/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Sreehariparayil132@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
